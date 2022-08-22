@@ -1,4 +1,4 @@
-# ISBNSearchProgramv1
+# ISBN Search Program v1
 
 
 This is an ISBN ID search program created with C++. The goal of this project was to create a program that takes and stores data from a text file (compscibooks.txt) using the #include <fstream> header and store that data in sorted arrays. From there, the user can input their desired selections based off what options the menu gives them.
